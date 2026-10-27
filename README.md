@@ -53,12 +53,12 @@ Jika diperlukan, gunakan `python3` sebagai pengganti `python`.
 
 | Input/Aksi | Hasil yang Diharapkan | Hasil Aktual | Status |
 |---|---|---|---|
-| Mencari A003 | Data Citra ditampilkan | Isi sesuai terminal | Isi setelah pengujian |
-| Mencari A999 | Data tidak ditemukan | Isi sesuai terminal | Isi setelah pengujian |
-| Mengubah A002 menjadi 82 | Nilai menjadi 82 | Isi sesuai terminal | Isi setelah pengujian |
-| Menambah A006 | Data Fajar tersimpan | Isi sesuai terminal | Isi setelah pengujian |
-| Menampilkan `items()` | Semua data mahasiswa tampil | Isi sesuai terminal | Isi setelah pengujian |
-| Menghitung rata-rata | 83.50 | Isi sesuai terminal | Isi setelah pengujian |
+| Mencari A003 | Data Citra ditampilkan | Data Citra ditemukan | Berhasil |
+| Mencari A999 | Data tidak ditemukan | Data tidak ditemukan | Berhasil |
+| Mengubah A002 menjadi 82 | Nilai menjadi 82 | Nilai Budi menjadi 82 | Berhasil |
+| Menambah A006 | Data Fajar tersimpan | Data Fajar ditambahkan | Berhasil |
+| Menampilkan `items()` | Seluruh 6 data mahasiswa ditampilkan | Seluruh 6 data ditampilkan | Berhasil |
+| Menghitung rata-rata | 83.50 | Rata-rata nilai = 83.50 | Berhasil |
 
 ## 6. Refleksi
 
